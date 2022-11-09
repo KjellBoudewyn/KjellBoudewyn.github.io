@@ -1,0 +1,27 @@
+body {
+    font-style: initial;
+    font-size: 1.1em;
+    background-color: silver;
+    color: red;
+}
+h1 {
+    font-variant: all-small-caps;
+    background-color: red;
+}
+a:hover {
+    background-color: white;
+}
+.stippeltjesrand {
+    border-style: dashed;
+    border-width: 1px;
+}
+.icon{
+    background-image: url('http://www.thinksnaps.com/wp-content/uploads/2014/07/images-background.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    background-clip: border-box;
+    transition: background-size 0.2s;
+    transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
+}
