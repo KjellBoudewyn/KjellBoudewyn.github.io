@@ -22,6 +22,7 @@ body{
 }
 article {
     background-color: darkgrey;
+    margin-bottom: 5px;
 }
 nav {
     background-color: grey;
