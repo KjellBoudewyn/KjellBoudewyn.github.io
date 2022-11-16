@@ -7,7 +7,11 @@
 }
 
 .Other_Month {
-    background-color: lightgray;
+    background-color: lightgrey;
+}
+.underline {
+    text-decoration-line: underline;
+    color: blue;
 }
 .datagrid table {
     border-collapse: collapse;
