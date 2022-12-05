@@ -1,0 +1,59 @@
+html {
+    width: 960px;
+    margin: auto;
+}
+
+#top {
+    height: 200px;
+    text-align: center;
+    background-image: url("fotos/bgsky3.jpg");
+}
+#airbus {
+    color: darkblue;
+    font: 300% bold italic;
+}
+#titel{
+    color: darkblue;
+    font: 240% bold;
+}
+
+#fotoairbus{
+    position: absolute;
+    right:400px;
+    top: 90px;
+}
+
+#news {
+    float: right;
+    width: 250px;
+    background-color: #dddddd;
+    border-width: 1px;
+    border-color: #999999;
+}
+
+.normal_news_text {
+    color: #666666;
+    font-size: 90%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.news_headings {
+    color: white;
+    background-color: blue;
+    font-size: 120%;
+    text-align: center;
+}
+
+#main {
+    width: 700px;
+}
+
+#main_text {
+    background-color: white;
+    color: black;
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 30px;
+}
