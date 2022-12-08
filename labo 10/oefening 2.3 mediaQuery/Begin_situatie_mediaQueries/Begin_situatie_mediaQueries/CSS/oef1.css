@@ -33,11 +33,7 @@ figcaption {
 	font-size: .8em;
 }
 
-
-@media screen and (max-width: 767px){
-	figure
-}
-@media screen and (max-width: 991px) and (min-width: 768px){
+@media screen and (min-width: 768px){
 	body {
 		background: lightskyblue;
 	}
@@ -52,7 +48,6 @@ figcaption {
 		background: lightgreen;
 	}
 	figure {
-		float: left;
 		width: 25%;
 	}
 }
