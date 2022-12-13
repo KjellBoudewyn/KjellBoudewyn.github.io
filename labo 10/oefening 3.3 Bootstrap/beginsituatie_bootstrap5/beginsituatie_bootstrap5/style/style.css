@@ -18,12 +18,12 @@ elke div de class box tooevoegen
 }
 */
 
-.colorGray
+body div .colorGray
 {
     background-color: gray;
 }
 
-.colorLightGray
+body div .colorLightGray
 {
     background-color: lightgray;
 }
