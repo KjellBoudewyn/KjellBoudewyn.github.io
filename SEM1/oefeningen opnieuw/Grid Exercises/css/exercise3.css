@@ -1,0 +1,40 @@
+.container{
+    background-color: cornflowerblue;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
+}
+
+.container .block{
+    margin:20px;
+    padding:20px;
+    background-color: white;
+}
+
+.block.block1{
+    grid-area: 1/1/2/2;
+ }
+.block.block2{
+    grid-area: 2/2/3/3;
+}
+.block.block3{
+    grid-area:3/3/4/4;
+}
+.block.block4{
+
+}
+.block.block5{
+
+}
+.block.block6{
+
+}
+.block.block7{
+
+}
+.block.block8{
+
+}
+.block.block9{
+
+}
