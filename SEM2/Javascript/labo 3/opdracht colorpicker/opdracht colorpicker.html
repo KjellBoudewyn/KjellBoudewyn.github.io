@@ -8,25 +8,23 @@
     <title>Opdracht Colorpicker</title>
 </head>
 <body>
-   <div class="colorPicker">
-        <div class="component">
-            <div>
-              <span>0<input type="range" id="sldRed" class="slider" value="50" min="0" max="100">255 </span>
-              <span>Red</span>
-              <span class="lblRed">0</span>
-            </div>
-            <div>
-                <span>0<input type="range" id="sldGreen" class="slider" value="50" min="0" max="100" />255</span>
-                <span>Green</span>
-                <span class="lblGreen">0</span>
-            </div>
-            <div>
-                <span>0<input type="range" id="sldBlue" class="slider" value="50" min="0" max="100" />255</span>
-                <span>Blue</span>
-                <span class="lblBlue">0</span>
-            </div>
-        </div>
-       <div class="swatch" id="swatch"></div>
-   </div>
+<div class="links">
+    <span>0</span><input type="range" id="sldRed" class="slider" value="128" min="0" max="255"/><span>255</span>
+    <span>Red</span>
+    <span id="lblRed">128</span>
+    <br>
+    <span>0<input type="range" id="sldGreen" class="slider" value="128" min="0" max="255" />255</span>
+    <span>Green</span>
+    <span id="lblGreen">128</span>
+    <br>
+    <span>0<input type="range" id="sldBlue" class="slider" value="128" min="0" max="255" />255</span>
+    <span>Blue</span>
+    <span id="lblBlue">128</span>
+</div>
+
+<div class="swatch" id="swatch"></div>
+<div><input type="button" value="save" id="btnSave"></div>
+<section id="buildSwatchComponent"></section>
+
 </body>
 </html>

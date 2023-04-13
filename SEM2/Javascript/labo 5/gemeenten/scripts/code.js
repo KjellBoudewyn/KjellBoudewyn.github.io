@@ -22,6 +22,7 @@ const voegGemeenteToe = (gemeentes) => {
     for (let i = 0;i<gemeentes.length; i++) {
         let option = document.createElement("option");
         option.text = gemeentes[i];
+        option.value = gemeentes[i];
         select.add(option);
     }
    let div = document.getElementById("gemeentes");

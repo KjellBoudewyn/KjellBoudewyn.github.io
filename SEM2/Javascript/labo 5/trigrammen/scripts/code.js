@@ -15,9 +15,8 @@ const toonTrigrams = () => {
 }
 const getTrigrams = (tekst) => {
     let result=[];
-    let trigram;
     for (let i=0;i<tekst.length-2;i++){
-        trigram=tekst.slice(i,i+3);
+        let trigram=tekst.slice(i,i+3);
         result.push(trigram);
     }
     return result;
