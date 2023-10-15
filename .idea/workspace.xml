@@ -2,9 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9fc3d4-7536-49bf-8e6e-d3d1e13f14a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sem1/labo 3/opleidingsaanbod VIVES/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem1/labo 3/personal homepage assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem1/labo 3/personal homepage assignment/personal homepage assignment.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/Exemples-labo-main/labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem1/labo 4/Exemples-labo-main/labo4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 3/verslag HTML deel 2_bestanden/colorschememapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 3/verslag HTML deel 2_bestanden/filelist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 3/verslag HTML deel 2_bestanden/verslag HTML deel 2.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/colorschememapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/filelist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/image012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/HTML deel 3_bestanden/themedata.thmx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/contact information assignment.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/opleidingsaanbod vives.htm" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -153,7 +173,7 @@
       <workItem from="1695997137222" duration="831000" />
       <workItem from="1697272689311" duration="35000" />
       <workItem from="1697357017690" duration="299000" />
-      <workItem from="1697357327055" duration="141000" />
+      <workItem from="1697357327055" duration="1125000" />
     </task>
     <servers />
   </component>
