@@ -2,35 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9fc3d4-7536-49bf-8e6e-d3d1e13f14a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 4/OpdrachtformulierElementen/OpdrachtFormulierElementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 4/OpdrachtformulierElementen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 4/OpdrachtformulierElementen/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/CreateNode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/CreateNode/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/CreateNode/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Nodes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Nodes/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Nodes/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Selector/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Selector/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/demo/Selector/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extra Nodes2/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extraNode3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extraNode3/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 6/extraNode3/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo2/opdracht5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/contact information assignment/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/contact information assignment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/opdrach_onderwijsaanbod/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/personal homepage assignment/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 5/css labo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 5/css labo 1/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht 4/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht resume/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 7/labo 7/opgave nature blog/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/KjellBoudewyn.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KjellBoudewyn.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM1/labo11/Grid Exercises(1)/Grid Exercises/css/exercise2.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/labo11/Grid Exercises(1)/Grid Exercises/css/exercise2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/opdracht colorpicker.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/opdracht colorpicker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 3/opdracht colorpicker/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 5/gemeenten/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 5/gemeenten/scripts/code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 5/trigrammen/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 5/trigrammen/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 5/renamen/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 5/renamen/scripts/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,11 +80,11 @@
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo11\demo\beginsituatie\Bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\herexamen\sem1\labo3\personal homepage assignment" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\SEM2" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\SEM1" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo12\demo\template-area" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo 10\demo bootstrap" />
-      <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo 8\opdracht cocktail bar(1)\begin_cocktail_bar" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -154,6 +154,30 @@
       <workItem from="1679508208304" duration="658000" />
       <workItem from="1679582612126" duration="594000" />
       <workItem from="1680187383745" duration="595000" />
+      <workItem from="1681372523551" duration="1183000" />
+      <workItem from="1681388004553" duration="595000" />
+      <workItem from="1681557966041" duration="1821000" />
+      <workItem from="1681563094074" duration="636000" />
+      <workItem from="1682165049633" duration="628000" />
+      <workItem from="1683277509124" duration="6280000" />
+      <workItem from="1683878114936" duration="8362000" />
+      <workItem from="1684920037758" duration="2348000" />
+      <workItem from="1685087236462" duration="6902000" />
+      <workItem from="1685711152798" duration="919000" />
+      <workItem from="1685863430748" duration="21000" />
+      <workItem from="1685863638465" duration="2053000" />
+      <workItem from="1686037361017" duration="2228000" />
+      <workItem from="1686113743047" duration="1539000" />
+      <workItem from="1686116151868" duration="264000" />
+      <workItem from="1692431715788" duration="7019000" />
+      <workItem from="1692517601414" duration="5467000" />
+      <workItem from="1692604404925" duration="5172000" />
+      <workItem from="1692687541083" duration="8174000" />
+      <workItem from="1692766023245" duration="726000" />
+      <workItem from="1695820809424" duration="618000" />
+      <workItem from="1695997025819" duration="105000" />
+      <workItem from="1695997137222" duration="831000" />
+      <workItem from="1697272689311" duration="35000" />
     </task>
     <servers />
   </component>
