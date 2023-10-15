@@ -2,35 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d9fc3d4-7536-49bf-8e6e-d3d1e13f14a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/extraoef/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefening_kinipolis/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/oefeningzelf/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SEM2/Javascript/tafels_begin/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo2/opdracht5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/contact information assignment/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/contact information assignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/opdrach_onderwijsaanbod/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/labo3/personal homepage assignment/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 5/css labo 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 5/css labo 1/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht 4/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 6/opdracht resume/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herexamen/sem1/week 7/labo 7/opgave nature blog/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/KjellBoudewyn.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KjellBoudewyn.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM1/labo11/Grid Exercises(1)/Grid Exercises/css/exercise2.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/labo11/Grid Exercises(1)/Grid Exercises/css/exercise2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/SEM1/opdracht flex/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SEM2/Javascript/labo 5/renamen/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/SEM2/Javascript/labo 5/renamen/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 3/personal homepage assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem1/labo 3/personal homepage assignment/personal homepage assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sem1/labo 4/Exemples-labo-main/labo4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sem1/labo 4/Exemples-labo-main/labo4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +54,11 @@
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo11\demo\beginsituatie\Bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\Sem1\labo 3\personal homepage assignment" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\herexamen\sem1\labo3\personal homepage assignment" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\SEM2" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\SEM1" />
       <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo12\demo\template-area" />
-      <recent name="C:\Users\Kjell\OneDrive\Bureaublad\Hoger 1\web dev\github\KjellBoudewyn.github.io\labo 10\demo bootstrap" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -178,6 +152,8 @@
       <workItem from="1695997025819" duration="105000" />
       <workItem from="1695997137222" duration="831000" />
       <workItem from="1697272689311" duration="35000" />
+      <workItem from="1697357017690" duration="299000" />
+      <workItem from="1697357327055" duration="141000" />
     </task>
     <servers />
   </component>
