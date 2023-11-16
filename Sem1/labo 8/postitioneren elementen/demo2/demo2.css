@@ -1,0 +1,41 @@
+#footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    background-color: green;
+    height: 120px;
+}
+#links {
+    float: left;
+    width: 20%;
+    background-color: white;
+    padding-right: 200px;
+    box-sizing: border-box;
+}
+/*Box-sizing zegt dat het element maar zoveel breed mag zijn*/
+#info {
+
+    float:left;
+    background-color: red;
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#header {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: silver;
+    margin: 0px;
+    padding:0px;
+}
+
+#wrapper {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
